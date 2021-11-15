@@ -15,6 +15,7 @@ namespace Refit2console
             var datatask = Go.DataUSA();
 
             Bored bored;
+
             DataUSA datausa;
 
             bored = task.Result;
